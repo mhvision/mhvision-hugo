@@ -1,0 +1,16 @@
+glasses:
+- brand: "dilem"
+  prix: "70"
+  picture: "http://mhvision.be/storage/cache/images/001/563/34,medium.1456912597.JPG"
+
+- brand: "dilem"
+  prix: "84"
+  picture: "http://mhvision.be/storage/cache/images/001/567/30,medium.1456912610.JPG"
+
+- brand: "dutz"
+  prix: "80"
+  picture: "http://mhvision.be/storage/cache/images/001/583/14,medium.1456912667.JPG"
+
+- brand: "dutz"
+  prix: "140"
+  picture: "http://mhvision.be/storage/cache/images/001/595/2,medium.1456912714.JPG"

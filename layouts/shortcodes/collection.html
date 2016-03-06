@@ -1,0 +1,16 @@
+{{ $name :=  .Get 0 }} 
+
+<h3>{{ $name }}</h3>
+<ul>
+
+{{ range .Page.Site.Data.collection.glasses.glasses }}
+{{ if eq .brand  $name }}
+<li>
+  <header>
+    <p>{{ .prix }} €</p>
+  </header>
+  <img src="{{.picture}}"/>
+</li>
+{{ end }}
+{{ end }}
+</ul>
