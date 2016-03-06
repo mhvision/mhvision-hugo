@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2015-03-08T01:44:54-01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/2015/03/08/astigmatisme/</loc>
+    <lastmod>2015-03-08T01:44:54-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/1/01/01/anatomie-de-loeil/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/1/01/01/correction-des-d%C3%A9formations/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/1/01/01/couleur-des-verres/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/1/01/01/filtre-antireflet/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/1/01/01/filtre-de-protection/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/1/01/01/filtre-miroir/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/1/01/01/filtre-polarisant/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/1/01/01/hyperm%C3%A9tropie/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/1/01/01/le-verre-de-photochromique-ou-verre-de-transition/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/1/01/01/myopie/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/1/01/01/presbytie/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/1/01/01/verre/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/1/01/01/verre-progressif-ou-unifocal/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/1/01/01/verre-solaire/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/1/01/01/vue-standard/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/1/01/01/vue-de-loin/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/1/01/01/vue-de-pr%C3%A8s/</loc>
+  </url>
+  
+</urlset>
