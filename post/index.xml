@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on MHvision</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://mhvision.github.io/post/</link>
     <description>Recent content in Posts on MHvision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-BE</language>
@@ -10,17 +10,17 @@
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2015 Matthieu Hartmann.</copyright>
     <lastBuildDate>Sun, 08 Mar 2015 01:44:54 -0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mhvision.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Astigmatisme</title>
-      <link>http://localhost:1313/2015/03/08/astigmatisme/</link>
+      <link>http://mhvision.github.io/2015/03/08/astigmatisme/</link>
       <pubDate>Sun, 08 Mar 2015 01:44:54 -0100</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://localhost:1313/2015/03/08/astigmatisme/</guid>
+      <guid>http://mhvision.github.io/2015/03/08/astigmatisme/</guid>
       <description>
 
-&lt;h1 id=&#34;c-est-une-déformation-de-la-vue&#34;&gt;C&amp;rsquo;EST UNE DÉFORMATION DE LA VUE&lt;/h1&gt;
+&lt;h1 id=&#34;c-est-une-déformation-de-la-vue:33af77f1986037c8c4d6760d5864ac2b&#34;&gt;C&amp;rsquo;EST UNE DÉFORMATION DE LA VUE&lt;/h1&gt;
 
 &lt;p&gt;La cornée est difforme au lieu d&amp;rsquo;être ronde. Il est impossible de focaliser des images, car certaines lignes (p.ex. verticales) sont nettes et d&amp;rsquo;autres (p.ex. horizontales) sont floues. L&amp;rsquo;œil astigmate voit donc plus distinctement dans une direction que dans l&amp;rsquo;autre.&lt;/p&gt;
 
@@ -88,10 +88,10 @@
     
     <item>
       <title>Anatomie de l&#39;oeil</title>
-      <link>http://localhost:1313/1/01/01/anatomie-de-loeil/</link>
+      <link>http://mhvision.github.io/1/01/01/anatomie-de-loeil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://localhost:1313/1/01/01/anatomie-de-loeil/</guid>
+      <guid>http://mhvision.github.io/1/01/01/anatomie-de-loeil/</guid>
       <description>
 
 &lt;p&gt;Anatomie-de-loeil.jpg&lt;/p&gt;
@@ -104,10 +104,10 @@
     
     <item>
       <title>Correction des déformations</title>
-      <link>http://localhost:1313/1/01/01/correction-des-d%C3%A9formations/</link>
+      <link>http://mhvision.github.io/1/01/01/correction-des-d%C3%A9formations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://localhost:1313/1/01/01/correction-des-d%C3%A9formations/</guid>
+      <guid>http://mhvision.github.io/1/01/01/correction-des-d%C3%A9formations/</guid>
       <description>
 
 &lt;h1 id=&#34;les-atouts-du-presio-w-contre-les-effets-de-déformation:6e45a12991564a3ed201d9e9d3db786c&#34;&gt;Les atouts du presio w contre les effets de déformation&lt;/h1&gt;
@@ -121,10 +121,10 @@
     
     <item>
       <title>Couleur des verres</title>
-      <link>http://localhost:1313/1/01/01/couleur-des-verres/</link>
+      <link>http://mhvision.github.io/1/01/01/couleur-des-verres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://localhost:1313/1/01/01/couleur-des-verres/</guid>
+      <guid>http://mhvision.github.io/1/01/01/couleur-des-verres/</guid>
       <description>&lt;p&gt;couleur-verres.jpg&lt;/p&gt;
 
 &lt;ul&gt;
@@ -144,10 +144,10 @@
     
     <item>
       <title>Filtre antireflet</title>
-      <link>http://localhost:1313/1/01/01/filtre-antireflet/</link>
+      <link>http://mhvision.github.io/1/01/01/filtre-antireflet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://localhost:1313/1/01/01/filtre-antireflet/</guid>
+      <guid>http://mhvision.github.io/1/01/01/filtre-antireflet/</guid>
       <description>&lt;p&gt;anti-reflet.jpg&lt;/p&gt;
 
 &lt;ul&gt;
@@ -163,10 +163,10 @@
     
     <item>
       <title>Filtre de protection</title>
-      <link>http://localhost:1313/1/01/01/filtre-de-protection/</link>
+      <link>http://mhvision.github.io/1/01/01/filtre-de-protection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://localhost:1313/1/01/01/filtre-de-protection/</guid>
+      <guid>http://mhvision.github.io/1/01/01/filtre-de-protection/</guid>
       <description>
 
 &lt;h1 id=&#34;filtre-de-protection:889e973434381823d656cf9977bbb603&#34;&gt;Filtre de protection&lt;/h1&gt;
@@ -197,10 +197,10 @@
     
     <item>
       <title>Filtre miroir</title>
-      <link>http://localhost:1313/1/01/01/filtre-miroir/</link>
+      <link>http://mhvision.github.io/1/01/01/filtre-miroir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://localhost:1313/1/01/01/filtre-miroir/</guid>
+      <guid>http://mhvision.github.io/1/01/01/filtre-miroir/</guid>
       <description>&lt;p&gt;L&amp;rsquo;effet miroir (miroité), en plus d&amp;rsquo;ajouter un véritable plus à votre look, améliore la qualité de filtration des verres. Il réfléchit une partie de la lumière, ce qui représente une diminution de la quantité de lumière reçue par l&amp;rsquo;oeil.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -220,10 +220,10 @@
     
     <item>
       <title>Filtre polarisant</title>
-      <link>http://localhost:1313/1/01/01/filtre-polarisant/</link>
+      <link>http://mhvision.github.io/1/01/01/filtre-polarisant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://localhost:1313/1/01/01/filtre-polarisant/</guid>
+      <guid>http://mhvision.github.io/1/01/01/filtre-polarisant/</guid>
       <description>&lt;p&gt;polarisant.jpg&lt;/p&gt;
 
 &lt;ul&gt;
@@ -238,13 +238,13 @@
     
     <item>
       <title>Hypermétropie</title>
-      <link>http://localhost:1313/1/01/01/hyperm%C3%A9tropie/</link>
+      <link>http://mhvision.github.io/1/01/01/hyperm%C3%A9tropie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://localhost:1313/1/01/01/hyperm%C3%A9tropie/</guid>
+      <guid>http://mhvision.github.io/1/01/01/hyperm%C3%A9tropie/</guid>
       <description>
 
-&lt;h1 id=&#34;la-vision-rapprochée-est-floue:3896ebb5c9d1a37fbd4e3b38b84ba1db&#34;&gt;La vision rapprochée est floue&lt;/h1&gt;
+&lt;h1 id=&#34;la-vision-rapprochée-est-floue&#34;&gt;La vision rapprochée est floue&lt;/h1&gt;
 
 &lt;p&gt;C&amp;rsquo;est l&amp;rsquo;inverse de la myopie. Le globe oculaire n&amp;rsquo;est pas assez long. L&amp;rsquo;image d&amp;rsquo;un objet vu par un œil hypermétrope se forme en arrière de la rétine. La vision, rapprochée et lointaine est floue.&lt;/p&gt;
 </description>
@@ -252,10 +252,10 @@
     
     <item>
       <title>Le verre de photochromique ou verre de transition</title>
-      <link>http://localhost:1313/1/01/01/le-verre-de-photochromique-ou-verre-de-transition/</link>
+      <link>http://mhvision.github.io/1/01/01/le-verre-de-photochromique-ou-verre-de-transition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://localhost:1313/1/01/01/le-verre-de-photochromique-ou-verre-de-transition/</guid>
+      <guid>http://mhvision.github.io/1/01/01/le-verre-de-photochromique-ou-verre-de-transition/</guid>
       <description>&lt;p&gt;La nouvelle technologie des verres de transition vous permet de porter des lunettes qui s&amp;rsquo;adapte à la puissance de la lumière de votre environnement&lt;/p&gt;
 
 &lt;p&gt;En cas de faible luminosité, le verre va s&amp;rsquo;éclaircir et plus la lumière sera intense, plus il va foncer pour protéger votre vue et mettre en évidence des détails imperceptibles à l&amp;rsquo;oeil nu.&lt;/p&gt;
@@ -268,10 +268,10 @@
     
     <item>
       <title>Myopie</title>
-      <link>http://localhost:1313/1/01/01/myopie/</link>
+      <link>http://mhvision.github.io/1/01/01/myopie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://localhost:1313/1/01/01/myopie/</guid>
+      <guid>http://mhvision.github.io/1/01/01/myopie/</guid>
       <description>
 
 &lt;h1 id=&#34;la-vision-rapprochée-est-nette-celle-lointaine-est-floue:a7fa17401d4df203d5d47e7467e85ce4&#34;&gt;La vision rapprochée est nette, celle lointaine est floue.&lt;/h1&gt;
@@ -282,10 +282,10 @@
     
     <item>
       <title>Presbytie</title>
-      <link>http://localhost:1313/1/01/01/presbytie/</link>
+      <link>http://mhvision.github.io/1/01/01/presbytie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://localhost:1313/1/01/01/presbytie/</guid>
+      <guid>http://mhvision.github.io/1/01/01/presbytie/</guid>
       <description>
 
 &lt;h1 id=&#34;c-est-une-fatigue-de-l-oeil-du-à-l-âge:f7450dab288405b16a2530320a90e8dd&#34;&gt;C&amp;rsquo;EST UNE FATIGUE DE L’OEIL DU À L’ÂGE&lt;/h1&gt;
@@ -296,32 +296,32 @@
     
     <item>
       <title>Verre</title>
-      <link>http://localhost:1313/1/01/01/verre/</link>
+      <link>http://mhvision.github.io/1/01/01/verre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://localhost:1313/1/01/01/verre/</guid>
+      <guid>http://mhvision.github.io/1/01/01/verre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verre progressif ou unifocal</title>
-      <link>http://localhost:1313/1/01/01/verre-progressif-ou-unifocal/</link>
+      <link>http://mhvision.github.io/1/01/01/verre-progressif-ou-unifocal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://localhost:1313/1/01/01/verre-progressif-ou-unifocal/</guid>
+      <guid>http://mhvision.github.io/1/01/01/verre-progressif-ou-unifocal/</guid>
       <description>&lt;p&gt;progressif-ou-unifocaux.jpg&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Verre solaire</title>
-      <link>http://localhost:1313/1/01/01/verre-solaire/</link>
+      <link>http://mhvision.github.io/1/01/01/verre-solaire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://localhost:1313/1/01/01/verre-solaire/</guid>
+      <guid>http://mhvision.github.io/1/01/01/verre-solaire/</guid>
       <description>
 
-&lt;h1 id=&#34;les-normes-européennes:96a2cea0807df76d061c9a80b158990f&#34;&gt;Les normes européennes&lt;/h1&gt;
+&lt;h1 id=&#34;les-normes-européennes&#34;&gt;Les normes européennes&lt;/h1&gt;
 
 &lt;p&gt;Depuis le 1er juillet 1995, la réglementation européenne impose d&amp;rsquo;indiquer le degré de protection, réparti en 5 classes. Cette norme est matérialisée par le marquage CE et un pictogramme qui doit figurer sur toutes les lunettes.&lt;/p&gt;
 
